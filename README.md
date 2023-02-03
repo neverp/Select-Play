@@ -2,7 +2,7 @@
 ### 可配合任务计划程序实现定时播放
 自己做的一个简单程序
 ### 预览
-[![效果展示.jpg](https://s1.ax1x.com/2023/02/03/pSscHtU.jpg)](https://imgse.com/i/pSscHtU)
+[![效果展示.jpg](https://s1.ax1x.com/2023/02/03/pSscO1J.jpg)](https://imgse.com/i/pSscO1J)
 
 ```python
 import os
